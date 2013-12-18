@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "App01": {
+            "applicationId": "K7FgdzuYT3Fy75aGzavFjja2BKs9EohEknGVh5CT", 
+            "masterKey": "VVAVXh719LRtGC2FgGdR00t331GHYj5oxTTVhWzG"
+        }, 
+        "_default": {
+            "link": "App01"
+        }
+    }
+}
